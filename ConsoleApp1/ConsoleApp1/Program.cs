@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("asdas");
             Console.WriteLine("Natalia Privet");
             Console.WriteLine("Privet Vusal");
+            Console.WriteLine("Kak dela?");
         }
     }
 }
