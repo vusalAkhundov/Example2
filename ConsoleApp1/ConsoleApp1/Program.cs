@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HEllo World");
             Console.WriteLine("asdas");
+            Console.WriteLine("Natalia Privet");
         }
     }
 }
